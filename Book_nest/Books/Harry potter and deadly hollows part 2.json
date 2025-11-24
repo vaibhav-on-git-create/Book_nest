@@ -1,0 +1,20 @@
+{
+    "name": "Harry potter and deadly hollows part 2",
+    "author": "Jk rowling",
+    "price": "350",
+    "times_issued": 0,
+    "availble_copies": 10,
+    "available_serials": [
+        "221",
+        "222",
+        "223",
+        "224",
+        "225",
+        "226",
+        "227",
+        "228",
+        "229",
+        "230"
+    ],
+    "issued_serials": ["230"]
+}

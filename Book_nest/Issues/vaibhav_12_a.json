@@ -1,0 +1,36 @@
+{
+    "name": "vaibhav",
+    "grade": "12",
+    "section": "a",
+    "book_name": [
+        [
+            "0",
+            null
+        ]
+    ],
+    "copies_issued": 2,
+    "book_serials": [
+        [
+            "230",
+            "Harry potter and deadly hollows part 2"
+        ],
+        [
+            "199",
+            "English_class_12"
+        ]
+    ],
+    "books_count": [
+        [
+            "Harry potter and deadly hollows part 2",
+            1
+        ],
+        [
+            "English_class_12",
+            1
+        ]
+    ],
+    "issue_days": 7,
+    "issue_date": "2025-11-24",
+    "return_date": "2025-12-01",
+    "issue_id": "n0gradesectiona1gradesectionm2gradesectione3gradesection--2025-11-2411:34:05.373603"
+}
